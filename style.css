@@ -1,0 +1,189 @@
+.Welcome{
+    background: linear-gradient(#0000007a, #9d00ff82),url(./Image/image1.jpg);
+
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.Welcome b{
+   color: #b3f5c1;
+   font-size: 40px;
+   font-family: arial black;
+   border-width: 1px;
+   border-color: red;
+   border-style: dashed;
+   border-radius: 20px;
+   padding: 5px;
+   background: #8fbc977a;
+}
+
+
+.about {
+     border: 1px solid red;
+     background: #ddd;
+     padding: 20px;
+     width: 400px;
+     margin-left: 443px;
+     margin-top: 50px;
+}
+
+.about h1{
+     margin-left: 134px;
+     color: #14293e;
+     background: #7bbae657;
+     display: inline;
+     padding: 10px;
+}
+
+.address{
+     width: 300px;
+     text-align: justify;
+     border-width: 1px;
+     border-radius: 5px;
+     padding: 10px;
+     margin-top: 114px;
+     background: linear-gradient(#80004d73, #00a1ff61) burlywood;
+     border-color: none;
+}
+.address p{
+     font-weight: 400;
+     font-style: italic;
+     line-height: 27px;
+     text-transform: none;
+     font-size: 14px;
+     font-family: 'Montserrat', sans-serif;
+}
+.address i{
+     margin-left: 68px;
+     font-size: 27px;
+     border: 1px solid none;
+     padding: 7px;
+     border-radius: 14px;
+     background: #8080806b;
+}
+.address i :hover{
+     background: rgb(117, 136, 177);
+     font-size: 40px;
+     
+}
+
+.address b{
+     font-weight: 600;
+     font-size: 30px;
+     color: rgb(53, 52, 5);
+}
+
+.lisence{
+     width: 300px;
+     text-align: justify;
+     border-width: 1px;
+     border-radius: 5px;
+     padding: 10px;
+     margin-top: -200px;
+     margin-left: 504px;
+     background:  linear-gradient(#80004d73, #00a1ff61) burlywood;
+     border-color: none;
+}
+.lisence p{
+     font-weight: 400;
+     font-style: italic;
+     line-height: 27px;
+     text-transform: none;
+     font-size: 14px;
+     font-family: 'Montserrat', sans-serif;
+}
+.lisence i{
+     margin-left: 68px;
+     font-size: 27px;
+     border: 1px solid none;
+     padding: 7px;
+     border-radius: 14px;
+     background: #8080806b;
+}
+.lisence i :hover{
+     background: rgb(117, 136, 177);
+     font-size: 40px;
+     
+}
+
+.lisence b{
+     font-weight: 600;
+     font-size: 30px;
+     color: rgb(53, 52, 5);
+}
+
+.Contact{
+     width: 300px;
+     text-align: justify;
+     border-width: 1px;
+     border-radius: 5px;
+     padding: 10px;
+     margin-top: -200px;
+     margin-left: 1014px;
+     background:  linear-gradient(#80004d73, #00a1ff61) burlywood;
+     border-color: none;
+}
+.Contact p{
+     font-weight: 400;
+     font-style: italic;
+     line-height: 27px;
+     text-transform: none;
+     font-size: 14px;
+     font-family: 'Montserrat', sans-serif;
+}
+.Contact i{
+     margin-left: 68px;
+     font-size: 27px;
+     border: 1px solid none;
+     padding: 7px;
+     border-radius: 14px;
+     background: #8080806b;
+}
+.Contact i :hover{
+     background: rgb(117, 136, 177);
+     font-size: 40px;
+     
+}
+
+.Contact b{
+     font-weight: 600;
+     font-size: 30px;
+     color: rgb(53, 52, 5);
+     margin-left: 7px;
+}
+
+.image2{
+     background: url(./Image/image3..jpg);
+     height: 800px;
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin-top: -50px;
+}
+
+.four b{
+color: crimson;
+background: cyan;
+padding: 7px;
+border: 1px solid none;
+border-radius: 10px;
+font-size: 30px;
+font-weight: 600;
+}
+
+
+.four p{
+     color: seashell;
+     width: 700px;
+     text-align: justify;
+}
+
+.four{
+     border: 2px solid none;
+     border-radius: 10px;
+     background: #61511473;
+     margin-top: 50px;
+     padding: 23px;
+     text-align: center;
+
+}
